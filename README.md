@@ -38,7 +38,7 @@ Follow the following steps to get development environment running.
 * Clone _'MERN-Wanderlust-App.git'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/apoorva-sajjanar/MERN-Wanderlust-App
+  https://github.com/pradeep-kr27/Wanderlust.git
   ```
 
    _OR USING SSH_
