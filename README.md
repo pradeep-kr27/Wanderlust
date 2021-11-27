@@ -44,7 +44,7 @@ Follow the following steps to get development environment running.
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:apoorva-sajjanar/MERN-Wanderlust-App.git
+  git@github.com:pradeep-kr27/Wanderlust.git
   ```
 
 * Install node modules
