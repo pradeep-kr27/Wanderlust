@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="0.089">
+ <testsuite name="TestCase 2: Get Search Bar Destination" timestamp="2020-05-14T00:22:35" hostname="localhost" time="0.043" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="TestCase 2: Get Search Bar Destination" name="TestCase 2.2: Valid Continent Response" time="0.036" />
+  <testcase classname="TestCase 2: Get Search Bar Destination" name="TestCase 2.1: Valid City Response" time="0.004" />
+ </testsuite>
+ <testsuite name="TestCase 1: Get Hotdeals" timestamp="2020-05-14T00:22:35" hostname="localhost" time="0.046" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="TestCase 1: Get Hotdeals" name="TestCase 1.1: Valid Response" time="0.044" />
+ </testsuite>
+</testsuites>
